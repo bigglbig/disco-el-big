@@ -1,0 +1,13 @@
+ITEM.name = "Лёд «Арасаки Йокай»"
+ITEM.uniqueID = "ice_t2"
+ITEM.description = "Призрак в машине. Невидимый, хитрый. Вместо отражения атаки он подсовывает хакеру ложные данные, заводя его в ловушку, пока тот не сгорит."
+ITEM.category = "Импланты"
+ITEM.model = "models/props_lab/reciever01a.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.tier = 2
+ITEM.outfitCategory = "Голова"
+ITEM.cyberpsychosis = 35
+ITEM.requiresNPC = true
+ITEM.KeepOnDeath = true
+ITEM.iceBlockBonus = 0.35

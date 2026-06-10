@@ -1,0 +1,13 @@
+ITEM.name = "Лёд «Милитех Протокол Х»"
+ITEM.uniqueID = "ice_t1"
+ITEM.description = "Военный уровень. Искусственный интеллект, который не просто закрывает систему, а контратакует. Способен поджарить кибердеку противника через соединение, оставив мозг владельца нетронутым."
+ITEM.category = "Импланты"
+ITEM.model = "models/props_lab/reciever01a.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.tier = 1
+ITEM.outfitCategory = "Голова"
+ITEM.cyberpsychosis = 35
+ITEM.requiresNPC = true
+ITEM.KeepOnDeath = true
+ITEM.iceBlockBonus = 0.55

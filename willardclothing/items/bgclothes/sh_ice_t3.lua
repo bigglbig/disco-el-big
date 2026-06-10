@@ -1,0 +1,13 @@
+ITEM.name = "Лёд «Канг Тао Дефендер»"
+ITEM.uniqueID = "ice_t3"
+ITEM.description = "Агрессивный сканер. Не просто защищает, а пытается идентифицировать взломщика и отправить его координаты корпоративным киллерам."
+ITEM.category = "Импланты"
+ITEM.model = "models/props_lab/reciever01a.mdl"
+ITEM.width = 1
+ITEM.height = 1
+ITEM.tier = 3
+ITEM.outfitCategory = "Голова"
+ITEM.cyberpsychosis = 15
+ITEM.requiresNPC = true
+ITEM.KeepOnDeath = true
+ITEM.iceBlockBonus = 0.25
